@@ -5,7 +5,7 @@ try:
 except Exception as e:
 	if platform.system() == "Windows":
 		os.system('cls')
-		os.system("title Creations / Password Genorator")
+		os.system("title Creations / Password Generator")
 		os.system('mode con: cols=60 lines=5')
 	else:
 		os.system('clear')
