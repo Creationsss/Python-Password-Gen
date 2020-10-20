@@ -31,4 +31,4 @@ git clone https://github.com/Creationsss/Python-Password-Gen
 ![Image](https://i.imgur.com/wLgGGS6.png)
 
 ### Usefull Links
-[![Discord Server](https://discordapp.com/api/guilds/748277853942186136/widget.png?style=banner2)](https://discord.gg/kZkExZC)
+[![Discord Server](https://discordapp.com/api/guilds/767528242465996840/widget.png?style=banner2)](https://discord.gg/kZkExZC)
